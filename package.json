@@ -1,7 +1,6 @@
 {
-  "name": "forin",
+  "name": "object",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -28,5 +27,14 @@
   },
   "dependencies": {
     "core-js": "^3.21.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3nergetik/object.git"
+  },
+  "bugs": {
+    "url": "https://github.com/3nergetik/object/issues"
+  },
+  "homepage": "https://github.com/3nergetik/object#readme",
+  "description": ""
 }
